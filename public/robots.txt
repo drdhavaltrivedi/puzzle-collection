@@ -1,3 +1,20 @@
 User-agent: *
 Allow: /
-Sitemap: https://puzzle-collection-eight.vercel.app/sitemap.xml
+
+# GPTBot
+User-agent: GPTBot
+Allow: /
+
+# ClaudeBot
+User-agent: Claude-Web
+Allow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Allow: /
+
+# CCBot
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://puzzle.drdhaval.in/sitemap.xml

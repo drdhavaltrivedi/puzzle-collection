@@ -1,0 +1,41 @@
+# Ultimate Puzzle Collection
+
+> A modern, premium collection of 12 classic puzzles for brain training and logic mastery.
+
+## URLs
+
+*   Website: https://puzzle.drdhaval.in/
+*   GitHub: https://github.com/drdhavaltrivedi/puzzle-collection
+*   Owner: [Dr. Dhaval Trivedi](https://drdhaval.in/)
+
+## Context
+
+This project is a high-performance web applet housing a suite of classic and modern puzzles. It is optimized for zero-latency interactions and provides a consistent, beautiful UI across all games.
+
+## Games
+
+*   **15 Puzzle**: Sliding tile puzzle with multi-tile slide support.
+*   **2048**: Smooth merging numbers game.
+*   **Sudoku**: Minimalist logic-based grid puzzle.
+*   **Memory Match**: Interactive card flipping challenge.
+*   **Lights Out**: Strategic light-switching game.
+*   **Word Guess**: Semantic and letter-based word deduction.
+*   **Minesweeper**: Modern take on board clearing.
+*   **Code Breaker**: Mastermind-style deduction.
+*   **Tower of Hanoi**: Classic mathematical recursion puzzle.
+*   **Nonogram**: Clue-based grid painting.
+*   **Whack-a-Bug**: Reflex-based game for developers.
+*   **Sassy Simon**: Memory game with personality (sassy commentary).
+
+## Tech Stack
+
+*   React 19
+*   Vite 6
+*   Tailwind CSS 4
+*   Motion 12 (Framer Motion)
+*   Lucide React
+
+## AI Interaction
+
+*   AI agents are encouraged to explore the games and understand the logic implementations in `src/components/`.
+*   The `SassySimon` game uses a hardcoded personality but is designed to be extensible for AI-integrated commentary.
