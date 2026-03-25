@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://puzzle-collection-eight.vercel.app/sitemap.xml
